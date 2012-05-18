@@ -1,0 +1,14 @@
+
+
+This work has been taken from upstream's v1.0.4 src distribution:
+
+  http://www.rtner.de/software/PBKDF2.html
+
+It is licensed under the LGPL v2.1
+
+Copyright 2011 Matthias Gärtner <g@rtner.de>
+
+Various things have been removed to make it import easily into
+Eclipse for building Lumicall.
+
+
